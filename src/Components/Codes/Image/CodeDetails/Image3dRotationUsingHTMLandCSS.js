@@ -14,7 +14,7 @@ const Image3dRotationUsingHTMLandCSS = () => {
         <div class="container">
           <span class="titles"> Image 3d Rotation </span>
           <div class="image">
-            <img src={Image1} alt="Image 3d Rotation" />
+            <img src='../../../images/3d-image-rotation-yt.png' alt="Image 3d Rotation" />
           </div>
           <div class="content">
             <h3>Introduction</h3>
