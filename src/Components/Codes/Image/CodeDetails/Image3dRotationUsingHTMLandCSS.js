@@ -2,7 +2,8 @@ import React from 'react'
 import { FaDownload } from 'react-icons/fa'
 import Footer from '../../../HeaderandFooter/Footer'
 import Header from '../../../HeaderandFooter/Header'
-import Image1 from '../../../images/3d-image-rotation-yt.png'
+// import Image1 from '../../../images/3d-image-rotation-yt.png'
+import Image1 from '../img/3d-image-rotation-yt.png'
 import './ImageCodeDetails.css'
 
 const Image3dRotationUsingHTMLandCSS = () => {
